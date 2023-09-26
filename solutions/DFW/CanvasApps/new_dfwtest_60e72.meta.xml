@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>new_dfwtest_60e72</Name>
-  <AppVersion>2023-08-25T18:42:43Z</AppVersion>
+  <AppVersion>2023-09-26T16:58:22Z</AppVersion>
   <Status>Ready</Status>
   <CreatedByClientVersion>3.23081.15.0</CreatedByClientVersion>
   <MinClientVersion>3.23081.15.0</MinClientVersion>
@@ -10,11 +10,11 @@
   <GalleryItemId xsi:nil="true"></GalleryItemId>
   <BackgroundColor>RGBA(0,176,240,1)</BackgroundColor>
   <DisplayName>DFW_Test</DisplayName>
-  <Description xsi:nil="true"></Description>
-  <CommitMessage xsi:nil="true"></CommitMessage>
-  <Publisher xsi:nil="true"></Publisher>
+  <Description></Description>
+  <CommitMessage></CommitMessage>
+  <Publisher></Publisher>
   <AuthorizationReferences>[]</AuthorizationReferences>
-  <ConnectionReferences>{"4a75d51e-6ae9-4218-b501-f7589646001c":{"id":"/providers/microsoft.powerapps/apis/shared_sharepointonline","displayName":"SharePoint","iconUri":"https://connectoricons-prod.azureedge.net/u/shgogna/globalperconnector-train1/1.0.1639.3312/sharepointonline/icon.png","dataSources":["Order Data"],"dependencies":[],"dependents":[],"parameterHints":{},"parameterHintsV2":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{"https://pfecrmonline.sharepoint.com/sites/nikier-Workshop":{"dataSources":{"Order Data":{"tableName":"67687277-efb3-4ce1-85e6-86a12c6560dc"}}}},"apiTier":"Standard","actions":["providers/PowerPlatform.Governance/Operations/Read"]}}</ConnectionReferences>
+  <ConnectionReferences>{"4a75d51e-6ae9-4218-b501-f7589646001c":{"id":"/providers/microsoft.powerapps/apis/shared_sharepointonline","displayName":"SharePoint","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1656/1.0.1656.3432/sharepointonline/icon.png","dataSources":["Order Data"],"dependencies":[],"dependents":[],"parameterHints":{},"parameterHintsV2":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{"https://pfecrmonline.sharepoint.com/sites/nikier-Workshop":{"dataSources":{"Order Data":{"tableName":"67687277-efb3-4ce1-85e6-86a12c6560dc"}}}},"apiTier":"Standard","actions":["providers/PowerPlatform.Governance/Operations/Read"]}}</ConnectionReferences>
   <DatabaseReferences>{}</DatabaseReferences>
   <AppComponents>[]</AppComponents>
   <AppComponentDependencies>[]</AppComponentDependencies>
